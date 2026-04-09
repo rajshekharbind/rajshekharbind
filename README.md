@@ -11,9 +11,27 @@
 - 💬 Ask me about **Html ,CSS,JS, - 🤖 **Machine Learning (ML)**
 - 🧠 **LLMs & Generative AI****
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/raj-shekhar-92012a298" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/raj-shekhar-92012a298" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/yourusername" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+
+  <a href="https://leetcode.com/yourusername" target="_blank">
+    <img align="center" src="https://cdn.simpleicons.org/leetcode" alt="LeetCode" height="30" width="40" />
+  </a>
+
+  <a href="https://codeforces.com/profile/yourusername" target="_blank">
+    <img align="center" src="https://cdn.simpleicons.org/codeforces" alt="Codeforces" height="30" width="40" />
+  </a>
+
+  <a href="https://www.codechef.com/users/yourusername" target="_blank">
+    <img align="center" src="https://cdn.simpleicons.org/codechef" alt="CodeChef" height="30" width="40" />
+  </a>
+
+  <a href="https://yourportfolio.com" target="_blank">
+    <img align="center" src="https://cdn.simpleicons.org/googlechrome" alt="Portfolio" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
