@@ -1,22 +1,12 @@
 <h1 align="center">Hi 👋, I'm Rajshekhar</h1>
-<h3 align="center">A passionate learning full stack developer</h3>
+<h3 align="center">A passionate learning full stack developer   and Devops (ml)</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajshekharbind&label=Profile%20views&color=0e75b6&style=flat" alt="rajshekharbind" /> </p>
 ## 🌱 Currently Learning & Exploring
 
-- 🚀 **DevOps & Deployment**
-- 🤖 **Machine Learning (ML)**
-- 🧠 **Large Language Models (LLMs)**
-- 🔍 **RAG Applications**
-- 🤖 **Agentic AI**
-- 🕸️ **LangGraph**
-- 🛠️ **LangSmith**
-- ⚡ **Redis**
-- 📩 **Kafka**
-- 🏗️ **System Design**
-- 📐 **Low-Level Design (LLD)**
-- 🌟 Exploring more cutting-edge technologies every day
+🚀 **DevOps & Deployment** • 🤖 **ML / LLMs** • 🔍 **RAG & Agentic AI** • 🕸️ **LangGraph & LangSmith**  
+⚡ **Redis & Kafka** • 🏗️ **System Design** • 📐 **LLD** • 🌟 **Modern scalable technologies**
 
 - 💬 Ask me about **Html ,CSS,JS, - 🤖 **Machine Learning (ML)**
 - 🧠 **LLMs & Generative AI****
