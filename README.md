@@ -3,21 +3,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajshekharbind&label=Profile%20views&color=0e75b6&style=flat" alt="rajshekharbind" /> </p>
-
-## 🌱 Currently Learning & Exploring
-
-- 🚀 **DevOps & Deployment**
-- 🤖 **Machine Learning (ML)**
-- 🧠 **Large Language Models (LLMs)**
-- 🔍 **RAG Applications**
-- 🤖 **Agentic AI**
-- 🕸️ **LangGraph**
-- 🛠️ **LangSmith**
-- ⚡ **Redis**
-- 📩 **Kafka**
-- 🏗️ **System Design**
-- 📐 **Low-Level Design (LLD)**
-- 🌟 Exploring more cutting-edge technologies every day
+🌱 I’m currently learning Devops and Machine learning
 
 - 💬 Ask me about **Html ,CSS,JS,**
 
