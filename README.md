@@ -229,7 +229,6 @@
         width="100%"
       />
     </td>
-
     <td width="25%" align="center">
       <img
         src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rajshekharbind&theme=tokyonight"
@@ -268,8 +267,6 @@
 </table>
 
 <br/>
-
-<!-- ========================= GitHub Profile Summary ========================= -->
 
 <h2 align="center">🚀 GitHub Profile Summary</h2>
 
