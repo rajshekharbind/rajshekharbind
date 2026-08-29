@@ -190,16 +190,17 @@
   <img src="https://img.shields.io/badge/Operating%20Systems-4CAF50?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Computer%20Networks-2196F3?style=for-the-badge" />
 </p>
-## 📊 GitHub Statistics
+
+# 📊 GitHub Analytics
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=rajshekharbind&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" 
+    src="https://github-readme-stats.vercel.app/api?username=rajshekharbind&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true" 
     alt="Rajshekhar's GitHub Stats" 
     width="48%"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajshekharbind&layout=compact&hide_border=true&langs_count=8" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajshekharbind&layout=compact&langs_count=8&hide_border=true" 
     alt="Top Languages" 
     width="42%"
   />
@@ -212,3 +213,24 @@
     width="60%"
   />
 </p>
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=rajshekharbind&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" 
+    alt="GitHub Trophies"
+    width="95%"
+  />
+</p>
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=rajshekharbind&hide_border=true&area=true" 
+    alt="GitHub Contribution Graph"
+    width="95%"
+  />
+</p>
+
