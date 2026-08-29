@@ -190,3 +190,25 @@
   <img src="https://img.shields.io/badge/Operating%20Systems-4CAF50?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Computer%20Networks-2196F3?style=for-the-badge" />
 </p>
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=rajshekharbind&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" 
+    alt="Rajshekhar's GitHub Stats" 
+    width="48%"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajshekharbind&layout=compact&hide_border=true&langs_count=8" 
+    alt="Top Languages" 
+    width="42%"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=rajshekharbind&hide_border=true" 
+    alt="GitHub Streak"
+    width="60%"
+  />
+</p>
