@@ -216,32 +216,6 @@
 
 <br/>
 
-<!-- ========================= Contribution Activity ========================= -->
-
-<h2 align="center">📈 Contribution Activity</h2>
-
-<table align="center" width="100%">
-  <tr>
-    <td width="75%" align="center">
-      <img
-        src="https://github-readme-activity-graph.vercel.app/graph?username=rajshekharbind&theme=tokyo-night&hide_border=true&area=true&height=180"
-        alt="Contribution Activity"
-        width="100%"
-      />
-    </td>
-    <td width="25%" align="center">
-      <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rajshekharbind&theme=tokyonight"
-        alt="GitHub Overview"
-        width="100%"
-      />
-    </td>
-
-  </tr>
-</table>
-
-<br/>
-
 <!-- ========================= Language Analytics ========================= -->
 
 <h2 align="center">💻 Language Analytics</h2>
