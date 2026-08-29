@@ -191,18 +191,20 @@
   <img src="https://img.shields.io/badge/Computer%20Networks-2196F3?style=for-the-badge" />
 </p>
 
+<!-- ========================= GitHub Analytics ========================= -->
+
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=rajshekharbind&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true"
-    alt=""
-    width="48%"
+    src="https://github-readme-stats.vercel.app/api?username=rajshekharbind&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&show=reviews,prs_merged,prs_merged_percentage&hide_border=true"
+    alt="Rajshekhar's GitHub Stats"
+    width="49%"
   />
-  
+
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajshekharbind&layout=compact&langs_count=8&hide_border=true"
-    alt=""
+    alt="Top Languages"
     width="42%"
   />
 </p>
@@ -211,10 +213,19 @@
   <img 
     src="https://streak-stats.demolab.com?user=rajshekharbind&hide_border=true"
     alt="GitHub Streak"
-    width="60%"
+    width="65%"
   />
 </p>
 
+<h2 align="center">📈 Contribution Activity</h2>
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=rajshekharbind&theme=github-compact&hide_border=true&area=true&radius=8"
+    alt="Rajshekhar's GitHub Activity Graph"
+    width="95%"
+  />
+</p>
 
 
 
