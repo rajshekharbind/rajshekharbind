@@ -190,8 +190,3 @@
   <img src="https://img.shields.io/badge/Operating%20Systems-4CAF50?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Computer%20Networks-2196F3?style=for-the-badge" />
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajshekharbind&show_icons=true&locale=en&layout=compact" alt="rajshekharbind" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajshekharbind&show_icons=true&locale=en" alt="rajshekharbind" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajshekharbind&" alt="rajshekharbind" /></p>
